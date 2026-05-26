@@ -1,0 +1,12 @@
+[
+  {
+    "document_id": "DOC-ENG-001",
+    "department": "Engineering",
+    "classification": "Confidential",
+    "allowed_roles": [
+      "Engineering",
+      "Executive"
+    ],
+    "source_type": "pdf"
+  }
+]
